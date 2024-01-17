@@ -21,6 +21,9 @@
     "jsx": "react-jsx"
   },
   "include": [
-    "src"
+    "src",
+    "node_modules/typescript/lib/lib.dom.d.ts",
+    "node_modules/typescript/lib/lib.dom.d.ts",
+    "node_modules/typescript/lib/lib.dom.d.ts"
   ]
 }
